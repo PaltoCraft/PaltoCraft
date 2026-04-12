@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <!-- Face -->
+  <rect width="16" height="16" rx="2" fill="#3a7d3a"/>
+  <!-- Eyes -->
+  <rect x="3" y="4" width="3" height="3" fill="#1a1a1a"/>
+  <rect x="10" y="4" width="3" height="3" fill="#1a1a1a"/>
+  <!-- Mouth -->
+  <rect x="5" y="8" width="6" height="1" fill="#1a1a1a"/>
+  <rect x="4" y="9" width="2" height="2" fill="#1a1a1a"/>
+  <rect x="10" y="9" width="2" height="2" fill="#1a1a1a"/>
+  <rect x="6" y="9" width="4" height="3" fill="#1a1a1a"/>
+</svg>

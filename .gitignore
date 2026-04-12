@@ -1,0 +1,16 @@
+# Зависимости (устанавливаются через npm install)
+node_modules/
+
+# Папка сборки
+.build/
+
+# Готовые билды и установщик
+dist/
+
+# Логи
+*.log
+npm-debug.log*
+
+# Системные файлы Windows
+Thumbs.db
+desktop.ini
